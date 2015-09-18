@@ -1,0 +1,26 @@
+body {
+	padding: 50px;
+}
+
+header {
+	background-color: #003D5C;
+	color: #fff;
+	height: 150px;
+	border: 2px solid black;
+	border-radius: 10px;
+}
+
+h1 {
+	padding:	50px 0 0 50px;
+
+}
+
+button {
+	height: 75px;
+	width: 90px;
+	border-radius: 5px;
+	margin-right: 11px;
+	margin-top: 25px;
+	font-size: 25px;
+	box-shadow: 10px 10px 5px #888888;
+}
